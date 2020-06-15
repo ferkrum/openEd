@@ -21,9 +21,8 @@
 * [V08 - Introdução às Listas no Snap!](https://www.loom.com/share/506b711e47c04a8792a88c062f1c0c70)
 * [V09 - Documentação de seus Projetos com Comentários e Notas](https://www.loom.com/share/6431f8da53f64cdc95046b1e06c18069)
 
-
-
-
+### Proj. Grau B
+Exemplos de projetos com Snap! para inspirar/ajudar no desenvolvimento do Proj. do Grau B: [aqui](https://docs.google.com/spreadsheets/d/1JQW5mY-89UyK68tX9i6iqEfazFU4pLr_Vn4bsYUNVw8/edit?usp=sharing)
 
 
 FAQ
