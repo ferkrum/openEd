@@ -19,11 +19,14 @@ Seu projeto deverá seguir o padrão:
 
 **Nome do Projeto**. (Nome dos criadores). Descrição breve do projeto em inglês, ocupando no máximo 3 linhas.
 
-
 O vídeo abaixo mostra uma série de projetos que foram desenvolvidos usando controladores alternativos para jogos digitais, no contexto do **alt.ctrl.GDC** -  para acessar ao repositório com projetos enviados nas últimas edições passadas. 
 
 https://www.youtube.com/watch?v=fOwb0inoAWc
 
 
   * O vídeo do seu projeto/gameplay deverá apresentar de forma objetiva e clara o funcionamento do seu jogo dando especial ênfase ao alt.ctrl. Vejam os projetos enviados na listagem para inspiração.
-  * Seu projeto deverá constar em uma página no itch.io contendo capturas de tela do game e o vídeo de apresentação/gameplay.
+  * O vídeo deverá estar legendado na língua inglesa (é possível fazer isso diretamente no Youtube).
+  * Seu projeto deverá constar em uma página no itch.io ([exemplo](https://twinravens.itch.io/bocha-simulator))contendo capturas de tela do game e o vídeo de apresentação/gameplay.
+
+Exemplo de vídeo da turma 2017.2(SL):
+* [SkyDogz](https://www.youtube.com/watch?v=17UAC1O25dI)
