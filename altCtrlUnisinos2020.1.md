@@ -1,4 +1,4 @@
-##Projeto final Plataformas Alternativas (ed 2020.1 - POA)
+## Projeto final Plataformas Alternativas (ed 2020.1 - POA)
 
 Os seguintes ítens são levados em conta na composição da entrega do Grau B:
 
@@ -30,3 +30,7 @@ https://www.youtube.com/watch?v=fOwb0inoAWc
 
 Exemplo de vídeo da turma 2017.2(SL):
 * [SkyDogz](https://www.youtube.com/watch?v=17UAC1O25dI)
+
+
+Outras pesquisas:
+- *https://www.google.com/search?q=gdc+alt.ctrl+submission&oq=gdc+alt.ctrl+submission&aqs=chrome..69i57.6264j0j7&sourceid=chrome&ie=UTF-8*
