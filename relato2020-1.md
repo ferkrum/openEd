@@ -1,5 +1,9 @@
 Breve relato das atividades de 2020.1 !
+
 Contexto de isolamento social.
 
-* 3 turmas de Pens. Computacional. (23, 33, 52)
-* 
+* Pens. Computacional. (3 turmas: 23, 33, 52)
+* Lab. Audiovisualidades. (41)
+* Mid. Loc. (63)
+* Proj. Exp. (
+* WS Design (>80 alunos)
