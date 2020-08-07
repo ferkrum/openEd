@@ -14,11 +14,11 @@
   * Notas:
   	 * 1966 - "Lapis" de [James Whitney](https://www.imdb.com/name/nm1448796/). (*Mathematically precise early computer-aided animated piece based around the meditative-like inward and outward flow of images of the mandala.*)
   	 * [Show de Travis Scott no Fortnite](https://www.youtube.com/watch?v=wYeFAlVC8qU).
-  	 * 
+  	 * Livro: Digital Harmony (pesquisar)
+  	 * Fortnite Game (apresentação live de rap usando o jogo.).
 
-   
-  * Ref: [Gray Area](https://www.youtube.com/channel/UCW12UmkdiMFyiC0BO15YRfA)
-  * Ref 2: [Nature of Code](https://natureofcode.com/). Agora saiu a versão 2.0!. De [Daniel Shiffmann](https://shiffman.net/). Criador do "[Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)".
-  * Fortnite Game.
 
-  
+
+  * Side Notes: 
+     * [Gray Area](https://www.youtube.com/channel/UCW12UmkdiMFyiC0BO15YRfA)
+     * Ref 2: [Nature of Code](https://natureofcode.com/). Agora saiu a versão 2.0!. De [Daniel Shiffmann](https://shiffman.net/). Criador do "[Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)".
