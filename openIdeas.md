@@ -1,10 +1,6 @@
 **Sobre esse doc**: *A intenção desse documento é proporcionar uma [contaminação rizomática de criação](https://www.ted.com/search?q=when+ideas+have+sex) "do bem".*
 
 
-
-
-
-
 ## Histórico de pesquisa
 
 
@@ -39,7 +35,10 @@
 * **Ben Fry.** [Github](https://github.com/benfry?tab=repositories). [Wikipedia](https://en.wikipedia.org/wiki/Ben_Fry). [website](https://benfry.com/about/)
   * Data visualization, um dos criadores do Processing. Aluno do MIT. Ganhou o prêmio Golden Nica (Prix Ars Electronica, 2005). 
 
-* **Golan Levin**.
+* **Golan Levin (Prof. Carnegie Mellon University)**. Born 1972
+  * www.flong.com
+  * F.A.T. Lab. Free Art and Technology (http://fffff.at/people/)
+  * Orientando do John Maeda 
 
 * **Daito Manabe (JP)**
   
@@ -68,3 +67,16 @@
 * Como desenvolver projetos de Software Livre usando o GitHub? 
 	* Esses projetos podem ser de escrita / pesquisa coletiva também.
 * 
+
+
+
+### *2020-08-15*
+
+Estudo trabalho do [Bruno Rohde](https://brunorohde.wordpress.com/):
+
+
+  * http://musicfromouterspace.com/analogsynth_new/SEQUENCER_VARICLOCK/SEQUENCER_VARICLOCK.php
+  * https://www.google.com/search?sxsrf=ALeKk01KYdnr3m6p6eJUtUrEDJxjG7utbg:1597439546799&q=baby+8+sequencer&tbm=isch&chips=q:baby+8+sequencer,online_chips:punk+console:eTcvCWyMiIQ%3D&usg=AI4_-kTubDJ2s4-6BhrnyzV3UCC6tG1cQw&sa=X&ved=2ahUKEwjip_KFzpvrAhV4HrkGHc2rDgUQgIoDKAB6BAgJEAU&biw=683&bih=1036#imgrc=Ydg5oaMxcdWLnM
+  * https://hackaday.com/2016/01/14/oh-baby-baby10-build-a-classic-analog-music-sequencer/
+  * [Ray Wilson](https://www.youtube.com/watch?v=gHHTN3Vav3o)
+  * [Vinicius Brazil](https://www.vbrazilsystems.com/sintetizador-modular.html)
