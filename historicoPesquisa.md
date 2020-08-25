@@ -32,13 +32,13 @@
   * [UCLA Arts Conditional Studio Github](https://github.com/uclaconditional). 
   * 
 
-* **Ben Fry.** [Github](https://github.com/benfry?tab=repositories). [Wikipedia](https://en.wikipedia.org/wiki/Ben_Fry). [website](https://benfry.com/about/)
-  * Data visualization, um dos criadores do Processing. Aluno do MIT. Ganhou o prêmio Golden Nica (Prix Ars Electronica, 2005). 
+* **Ben Fry.** (born 1975)[Github](https://github.com/benfry?tab=repositories). [Wikipedia](https://en.wikipedia.org/wiki/Ben_Fry). [website](https://benfry.com/about/)
+  * **Data visualization**, um dos criadores do **Processing**. Aluno do MIT. Ganhou o prêmio Golden Nica (Prix Ars Electronica, 2005). 
 
-* **Golan Levin (Prof. Carnegie Mellon University)**. Born 1972
+* **Golan Levin (Prof. Carnegie Mellon University)**. (born 1972)
   * www.flong.com
   * F.A.T. Lab. Free Art and Technology (http://fffff.at/people/)
-  * Orientando do John Maeda 
+  * Orientando do **John Maeda** 
 
 * **Daito Manabe (JP)**
   
@@ -80,3 +80,12 @@ Estudo trabalho do [Bruno Rohde](https://brunorohde.wordpress.com/):
   * https://hackaday.com/2016/01/14/oh-baby-baby10-build-a-classic-analog-music-sequencer/
   * [Ray Wilson](https://www.youtube.com/watch?v=gHHTN3Vav3o)
   * [Vinicius Brazil](https://www.vbrazilsystems.com/sintetizador-modular.html)
+
+<hr>
+  
+## Podcasts
+  1. [Land of the Giants](https://open.spotify.com/show/6DdYNi0EakNKPDuONnWiam?si=xSCUopHfTNe0FnKjBJjOag). tech, facebook, apple, amazon, giants.
+  2. df
+  3. dsf
+  4. sdf
+  5. 
