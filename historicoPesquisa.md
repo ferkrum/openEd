@@ -83,6 +83,16 @@ Estudo trabalho do [Bruno Rohde](https://brunorohde.wordpress.com/):
 
 <hr>
   
+### *2020-08-29*
+  
+PDF Artigo Casey Reas: Ideia, plataforma, processo, domínio. 
+
+* mundo de criadores-programadores.
+* "Ele [processing] estava lugar ao meio, um meio-termo em que artistas plásticos e designers poderiam estar confiante em relação à sua capacidade de trabalhar com formas e imagens, e ao mesmo tempo aprender programação, e engenheiros poderiam estar seguros da capacidade de escrever códigos enquanto aprendem sobre a forma e imagens."
+* "É mais correto chamar o Processing de plataforma - uma plataforma para a experimentação, reflexão e aprendizagem."
+ 
+  
+  
 ## Podcasts
   1. [Land of the Giants](https://open.spotify.com/show/6DdYNi0EakNKPDuONnWiam?si=xSCUopHfTNe0FnKjBJjOag). tech, facebook, apple, amazon, giants.
   2. df
