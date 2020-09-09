@@ -58,15 +58,6 @@
 
 
 
-<hr>
-###Outros:
-* Perguntas: Como eu produzo algo em javascript?
-* Código "procedural". Orientação a objetos.
-* Python?
-* Como uso bibliotecas dentro dos meus projetos ?
-* Como desenvolver projetos de Software Livre usando o GitHub? 
-	* Esses projetos podem ser de escrita / pesquisa coletiva também.
-* 
 
 
 
@@ -98,4 +89,18 @@ PDF Artigo Casey Reas: Ideia, plataforma, processo, domínio.
   2. df
   3. dsf
   4. sdf
-  5. 
+
+  
+  <hr>
+## Outros:
+* Perguntas: Como eu produzo algo em javascript?
+* Código "procedural". Orientação a objetos.
+* Python?
+* Como uso bibliotecas dentro dos meus projetos ?
+* Como desenvolver projetos de Software Livre usando o GitHub? 
+	* Esses projetos podem ser de escrita / pesquisa coletiva também.
+* 
+
+* um programa para monitorar um diretório e enviar avisos quando há falta de alteração em um determinado tempo.
+  * como fazer? python? Swift? 
+  
