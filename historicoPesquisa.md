@@ -82,9 +82,19 @@ PDF Artigo Casey Reas: Ideia, plataforma, processo, domínio.
 * "Ele [processing] estava lugar ao meio, um meio-termo em que artistas plásticos e designers poderiam estar confiante em relação à sua capacidade de trabalhar com formas e imagens, e ao mesmo tempo aprender programação, e engenheiros poderiam estar seguros da capacidade de escrever códigos enquanto aprendem sobre a forma e imagens."
 * "É mais correto chamar o Processing de plataforma - uma plataforma para a experimentação, reflexão e aprendizagem."
  
+ 
+ 
+ 
+### *2020-09-27*
+
+* [Dustin Yellin @Ted](https://www.ted.com/speakers/dustin_yellin_1?language=lv)
+
+
+
   
+## Lista de Podcasts de interesse
+(Título, link, palavras-chave)
   
-## Podcasts
   1. [Land of the Giants](https://open.spotify.com/show/6DdYNi0EakNKPDuONnWiam?si=xSCUopHfTNe0FnKjBJjOag). tech, facebook, apple, amazon, giants.
   2. df
   3. dsf
