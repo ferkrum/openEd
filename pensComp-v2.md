@@ -8,6 +8,18 @@
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 * [V03 - Operações aritméticas. Conheça Lôro, o papagaio somador](https://www.loom.com/share/4e2b0cd121b2445ca76c670cfb858d3a)  -- alterar
 * [V04 - Salvando e compartilhando projetos](https://www.loom.com/share/f3e69749d281487592d85460d73e6e5a)
 * [V05 - Condicionais no Snap (Condicional "SE")](https://www.loom.com/share/2c328d9a0e8b4db0a7d036678f91b320)
