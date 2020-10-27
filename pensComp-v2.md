@@ -1,7 +1,7 @@
 ## Vídeo-tutoriais de Snap! no Pensamento Computacional - Edição 2020.2
 (sequência de [2020.1](https://github.com/ferkrum/pensComp/blob/master/tutorialSnap.md))
 
-* [V01 - Introdução e Login](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19).
+* [V01 - Introdução e Login](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19)
 * [V02 - Apresentando espaço e blocos do Snap! (novo)](https://www.loom.com/share/62789835943d436da62da6253d670d99)
   * [V02.1 - Início e fim de algoritmo (novo)](https://www.loom.com/share/0117cc09df50458bae3e96bffaec1101)
   * [V02.1b - Alterando atores e palco: personalizando o seu cenário (novo)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
