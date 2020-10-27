@@ -1,25 +1,34 @@
 ## Vídeo-tutoriais de Snap! no Pensamento Computacional - Edição 2020.2
 (sequência de [2020.1](https://github.com/ferkrum/pensComp/blob/master/tutorialSnap.md))
 
-* [V01 - Introdução e Login](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19).
-* [V02 - Apresentando espaço e blocos do Snap! (novo)](https://www.loom.com/share/62789835943d436da62da6253d670d99)
-  * [V02.1 - Início e fim de algoritmo (novo)](https://www.loom.com/share/0117cc09df50458bae3e96bffaec1101)
-  * [V02.1b - Alterando atores e palco: personalizando o seu cenário](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+Primeira aula: apresentação.
+
+* [V01 - Introdução e Login (5min)](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19).
+* [V02 - Apresentando espaço e blocos do Snap! (5min)](https://www.loom.com/share/62789835943d436da62da6253d670d99) (novo)
+  * [V02.1 - Início e fim de algoritmo (6min)](https://www.loom.com/share/0117cc09df50458bae3e96bffaec1101) (novo)
+  * [V02.1b - Alterando atores e palco: personalizando o seu cenário (3min)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789) (novo)
+  * [V02.2 - Entradas e Saídas (5min)](https://www.loom.com/share/543c91ed982345248dcb3852c8949478) (novo)
+  * [V02.3 - Variáveis, declarando e atribuindo valores (12min)](https://www.loom.com/share/ed734c668ba743dd817b4158fc796182) (novo) 
+  * [V02.4 - Variáveis, usando valores na saída do algoritmo (10min)](https://www.loom.com/share/1a920b85498c421b841bd2f85f329b98) (novo)
+  * [V02.5 - Operações aritméticas simples (13min)](https://www.loom.com/share/85e9258b4a5b461e9be50040d9ee6197) (novo)
+* [V03 - Salvando e compartilhando projetos (4min)](https://www.loom.com/share/ea0be86c99c74e9e89383ccc6cb703a4) (novo) 
+
+  -
+  
+Revisão + Condicionais
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
 * [V03 - Operações aritméticas. Conheça Lôro, o papagaio somador](https://www.loom.com/share/4e2b0cd121b2445ca76c670cfb858d3a)  -- alterar
 * [V04 - Salvando e compartilhando projetos](https://www.loom.com/share/f3e69749d281487592d85460d73e6e5a)
 * [V05 - Condicionais no Snap (Condicional "SE")](https://www.loom.com/share/2c328d9a0e8b4db0a7d036678f91b320)
