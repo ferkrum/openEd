@@ -1,6 +1,7 @@
 ## Vídeo-tutoriais de Snap! no Pensamento Computacional - Edição 2020.2
 (sequência de [2020.1](https://github.com/ferkrum/pensComp/blob/master/tutorialSnap.md))
 
+<<<<<<< HEAD
 
 Primeira aula: apresentação.
 
@@ -29,6 +30,27 @@ Revisão + Condicionais
   
   
   
+=======
+* [V01 - Introdução e Login](https://www.loom.com/share/e9fd905057b34b20ba76c67468e94d19)
+* [V02 - Apresentando espaço e blocos do Snap! (novo)](https://www.loom.com/share/62789835943d436da62da6253d670d99)
+  * [V02.1 - Início e fim de algoritmo (novo)](https://www.loom.com/share/0117cc09df50458bae3e96bffaec1101)
+  * [V02.1b - Alterando atores e palco: personalizando o seu cenário (novo)](https://www.loom.com/share/85957c0587ca43efa8710ca9cd985789)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+>>>>>>> 6a13efcccabfa6e9a70c58f27d5a61118b330316
 * [V03 - Operações aritméticas. Conheça Lôro, o papagaio somador](https://www.loom.com/share/4e2b0cd121b2445ca76c670cfb858d3a)  -- alterar
 * [V04 - Salvando e compartilhando projetos](https://www.loom.com/share/f3e69749d281487592d85460d73e6e5a)
 * [V05 - Condicionais no Snap (Condicional "SE")](https://www.loom.com/share/2c328d9a0e8b4db0a7d036678f91b320)
